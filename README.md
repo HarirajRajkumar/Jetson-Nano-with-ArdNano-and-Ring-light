@@ -15,3 +15,5 @@ Here’s my Python code (must first install smbus module with Python Pip) -> vis
 
 16 Bit Ring light is connected to Arduino's Digital Pin 6. 
 Upload I2C_ring_light_slave.ino to your Arduino.
+
+Use NeoPixel_test.py to enable Jetson as I2C Master.
